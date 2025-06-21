@@ -44,7 +44,7 @@ const sidebars: SidebarsConfig = {
       type: "category",
       label: "Bluefin LTS",
       collapsed: false,
-      items: [    
+      items: [
         "lts",
         "bluefin-gdx"
       ],
