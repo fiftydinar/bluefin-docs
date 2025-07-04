@@ -17,12 +17,12 @@ This usually means you can set it up your system once, and then have it remain t
 
 ## Installing Applications
 
-Use the GNOME Software Center to [install applications from Flathub](https://flathub.org/). System updates and upgrades are not handled by this application, it's scope has been reduced to only install Flatpaks from Flathub. Two flatpak management tools are included:
+Use [Bazaar](https://github.com/kolunmi/bazaar) to [install applications from Flathub](https://flathub.org/). System updates and upgrades are not handled by this application, it's scope has been reduced to only install Flatpaks from Flathub. Two flatpak management tools are included:
 
 - [Warehouse](https://flathub.org/apps/io.github.flattool.Warehouse) provides application management.
 - [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) is also included for permission management.
 
-![GNOME Software Center - App Illustration](https://github.com/user-attachments/assets/65b6cae5-9ed4-4d28-93b4-b6dfe9adf463)
+![The Bazaar Software Center - App Illustration](https://github.com/user-attachments/assets/925afa45-f04d-4e3f-8fb7-3d26342c0151)
 
 ## System Updates
 
@@ -32,9 +32,9 @@ Bluefin is designed to be "hands off". The system checks for updates every six(6
  
 Updates are applied when the system reboots. Therefore, it is recommended to routinely power off your device when it's not being used to ensure kernel updates are being applied. Application updates (like the browser) happen independently of this and don't require a reboot.
 
-Machine firmware updates are provided through the standard Software Center:
+Machine firmware updates are provided through the Firmware application
 
-![Software Center → Updates](https://github.com/user-attachments/assets/98256d26-87ff-458f-a5f1-ecfa31a4639c)
+![Firmware](https://github.com/user-attachments/assets/0c3f2dce-1220-48d9-9a13-a1842a6a3bf3)
 
 ### Managing Updates
 
@@ -51,12 +51,6 @@ Bluefin offers images based on the current and last stable version of Fedora, as
 
 ### Bluefin GTS
 `gts`: This is the default image and is always aliased to the previous stable version of Fedora. It targets the majority of users. It is slang for "Grand Touring Support", to signify a faster cadence than an [LTS](https://www.linux.com/news/mark-shuttleworth-ubuntu-long-term-support/). It also features a gated kernel. 
-
-### Bluefin LTS (Beta)
-`lts`: a workstation designed for people who prefer Long Term Support. This species of raptor is for users who prefer a slower release cadence, about a three-to-five year lifespan on a single release. It is built on top of CentOS 10 but includes newer kernels and GNOME desktop components, see [Bluefin LTS](/lts) for more information.
-
-### Bluefin GDX (Beta)
-`gdx`: Bluefin GDX is designed to be an AI Workstation by providing Nvidia drivers and CUDA in one image. It combines Bluefin LTS with the Bluefin Developer Experience, therefore is also based on CentOS 10. See [Bluefin GDX](/gdx) for more information.
 
 #### Latest (For Testers)
 `latest`: For users who want the very latest Fedora has to offer, an ungated linux kernel, daily updates, full open throttle. 🔥 This stream is purposely left unbranded and is not meant for general purpose use.

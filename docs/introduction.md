@@ -30,16 +30,15 @@ System updates are image-based and automatic. Applications are logically separat
     - [Search Light](https://github.com/icedman/search-light) - for search and a MacOS Spotlight workflow. Bound to <kbd>Super</kbd>-<kbd>Space</kbd> by default. Check the screenshot at the bottom of this page for an example
 - [Developer Mode](/bluefin-dx) - Dedicated developer mode that transforms Bluefin into a powerful cloud native developer workstation
 - [Ptyxis terminal](https://devsuite.app/ptyxis/) for container-focused workflows
-  - [Boxbuddy](https://flathub.org/apps/io.github.dvlv.boxbuddyrs) for container management
+  - [Distroshelf](https://flathub.org/apps/com.ranfdev.DistroShelf) for container management
 - [Tailscale](https://tailscale.com) - included for VPN along with `wireguard-tools`
   - Use `ujust toggle-tailscale` to turn it off if you don't plan on using it.
 - [GNOME Extensions Manager](https://flathub.org/apps/com.mattjakeman.ExtensionManager) included
-- GNOME Software with [Flathub](https://flathub.org):
+- [Bazaar Application Store](https://github.com/kolunmi/bazaar) featuring [Flathub](https://flathub.org):
   - Use a familiar software center UI to install graphical software
   - [Warehouse](https://flathub.org/apps/io.github.flattool.Warehouse) included for flatpak management
 - Quality of Life Features
   - [Starship](https://starship.rs) terminal prompt enabled by default
-  - [Input Leap](https://github.com/input-leap/input-leap) built in
   - [Solaar](https://github.com/pwr-Solaar/Solaar) - included for Logitech mouse
     management along with `libratbagd`
   - [rclone](https://rclone.org/overview/) - mount almost any remote bucket onto your local machine, great for multiple machine setups
