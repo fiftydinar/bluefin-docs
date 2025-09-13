@@ -19,7 +19,7 @@
 
 .packageSummaryGrid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 2rem;
   margin-bottom: 3rem;
 }
@@ -35,6 +35,24 @@
   display: flex;
   flex-direction: column;
   gap: 2rem;
+}
+
+.sectionByline {
+  margin: -1rem 0 1rem 0;
+  color: var(--ifm-color-emphasis-600);
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.speciesNames {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.speciesNames .sectionByline {
+  margin: 0;
 }
 
 .additionalLinks {
@@ -93,16 +111,16 @@
     grid-template-columns: 1fr;
     gap: 1.5rem;
   }
-  
+
   .packageSummaryGrid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 1.5rem;
   }
-  
+
   .header h1 {
     font-size: 2rem;
   }
-  
+
   .header p {
     font-size: 1rem;
   }
@@ -112,24 +130,34 @@
   .header {
     margin-bottom: 2rem;
   }
-  
+
   .header h1 {
     font-size: 1.75rem;
   }
-  
+
   .feedGrid {
     gap: 1rem;
   }
-  
+
   .feedColumn {
     gap: 1rem;
   }
-  
+
+  .packageSummaryGrid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
   .linkGrid {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
-  
+
+  .speciesNames {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
   .resourceLink {
     padding: 1rem;
   }

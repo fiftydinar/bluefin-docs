@@ -21,36 +21,51 @@ const CommunityFeeds: React.FC = () => {
 
         {/* Package Summary Boxes */}
         <div className={styles.packageSummaryGrid}>
-          <PackageSummary feedKey="bluefinReleases" title="Bluefin Stable" />
           <PackageSummary feedKey="bluefinLtsReleases" title="Bluefin LTS" />
+          <PackageSummary
+            feedKey="bluefinReleases"
+            title="Bluefin GTS"
+            filter={(item) => item.title.startsWith("gts-")}
+          />
+          <PackageSummary
+            feedKey="bluefinReleases"
+            title="Bluefin"
+            filter={(item) => item.title.startsWith("stable-")}
+          />
         </div>
 
         <div className={styles.feedGrid}>
           <div className={styles.feedColumn}>
             <FeedItems
-              feedId="bluefinReleases"
-              title="Bluefin and Bluefin GTS Releases"
-              maxItems={5}
+              feedId="bluefinLtsReleases"
+              title="Bluefin LTS"
+              maxItems={10}
               showDescription={false}
             />
+            <p className={styles.sectionByline}>
+              <em>Achillobator giganticus</em>
+            </p>
             <FeedItems
-              feedId="bluefinAnnouncements"
-              title="Announcements"
-              maxItems={3}
+              feedId="bluefinDiscussions"
+              title="Community Discussions"
+              maxItems={5}
               showDescription={false}
             />
           </div>
           <div className={styles.feedColumn}>
             <FeedItems
-              feedId="bluefinLtsReleases"
-              title="Bluefin LTS Releases"
-              maxItems={5}
+              feedId="bluefinReleases"
+              title="Bluefin and Bluefin GTS"
+              maxItems={10}
               showDescription={false}
             />
+            <p className={styles.sectionByline}>
+              <em>Deinonychus antirrhopus</em>
+            </p>
             <FeedItems
-              feedId="bluefinDiscussions"
-              title="Community Discussions"
-              maxItems={5}
+              feedId="bluefinAnnouncements"
+              title="Announcements"
+              maxItems={3}
               showDescription={false}
             />
           </div>
