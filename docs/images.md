@@ -16,7 +16,11 @@ This page shows the latest published container images for Bluefin OS.
 <!-- STABLE_DAILY_IMAGES_START -->
 | Image Name | Publication Date | Package Link |
 | ---------- | ---------------- | ------------ |
-| `stable-daily-20251211` 🏷️ **stable-daily** | 2025-12-11 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/608375611?tag=stable-daily-20251211) |
+| `stable-daily-20251213` 🏷️ **stable-daily** | 2025-12-13 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/610017849?tag=stable-daily-20251213) |
+| `stable-daily-20251213` 🏷️ **stable-daily** | 2025-12-13 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/610017849?tag=stable-daily-20251213) |
+| `stable-daily-20251213` 🏷️ **stable-daily** | 2025-12-13 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/610017849?tag=stable-daily-20251213) |
+| `stable-daily-20251212` 🏷️ **stable-daily** | 2025-12-12 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/609691220?tag=stable-daily-20251212) |
+| `stable-daily-20251212` 🏷️ **stable-daily** | 2025-12-12 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/609691220?tag=stable-daily-20251212) |
 | `stable-daily-20251211` 🏷️ **stable-daily** | 2025-12-11 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/608375611?tag=stable-daily-20251211) |
 | `stable-daily-20251211` 🏷️ **stable-daily** | 2025-12-11 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/608375611?tag=stable-daily-20251211) |
 | `stable-daily-20251210` 🏷️ **stable-daily** | 2025-12-10 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/605814009?tag=stable-daily-20251210) |
@@ -40,4 +44,4 @@ This page shows the latest published container images for Bluefin OS.
 
 <!-- LAST_UPDATE -->
 
-_This page is automatically updated via GitHub Actions. Last updated: 2025-12-12 06:03:16 UTC_
+_This page is automatically updated via GitHub Actions. Last updated: 2025-12-13 06:02:55 UTC_
