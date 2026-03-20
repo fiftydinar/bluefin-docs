@@ -16,11 +16,11 @@ This page shows the latest published container images for Bluefin OS.
 <!-- STABLE_DAILY_IMAGES_START -->
 | Image Name | Publication Date | Package Link |
 | ---------- | ---------------- | ------------ |
+| `stable-daily-20260320` 🏷️ **stable-daily** | 2026-03-20 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/747414644?tag=stable-daily-20260320) |
+| `stable-daily-20260320` 🏷️ **stable-daily** | 2026-03-20 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/747414644?tag=stable-daily-20260320) |
+| `stable-daily-20260320` 🏷️ **stable-daily** | 2026-03-20 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/747414644?tag=stable-daily-20260320) |
 | `stable-daily-20260319` 🏷️ **stable-daily** | 2026-03-19 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/745073813?tag=stable-daily-20260319) |
 | `stable-daily-20260319` 🏷️ **stable-daily** | 2026-03-19 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/745073813?tag=stable-daily-20260319) |
-| `stable-daily-20260319` 🏷️ **stable-daily** | 2026-03-19 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/745073813?tag=stable-daily-20260319) |
-| `stable-daily-20260318` 🏷️ **stable-daily** | 2026-03-18 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/742804581?tag=stable-daily-20260318) |
-| `stable-daily-20260318` 🏷️ **stable-daily** | 2026-03-18 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/742804581?tag=stable-daily-20260318) |
 <!-- STABLE_DAILY_IMAGES_END -->
 
 ### GTS Release
@@ -38,4 +38,4 @@ This page shows the latest published container images for Bluefin OS.
 
 <!-- LAST_UPDATE -->
 
-_This page is automatically updated via GitHub Actions. Last updated: 2026-03-19 06:18:07 UTC_
+_This page is automatically updated via GitHub Actions. Last updated: 2026-03-20 06:15:34 UTC_
