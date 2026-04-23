@@ -16,11 +16,11 @@ This page shows the latest published container images for Bluefin OS.
 <!-- STABLE_DAILY_IMAGES_START -->
 | Image Name | Publication Date | Package Link |
 | ---------- | ---------------- | ------------ |
-| `stable-daily-20260422` 🏷️ **stable-daily** | 2026-04-22 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/813133720?tag=stable-daily-20260422) |
-| `stable-daily-20260422` 🏷️ **stable-daily** | 2026-04-22 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/813133720?tag=stable-daily-20260422) |
-| `stable-daily-20260422` 🏷️ **stable-daily** | 2026-04-22 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/813133720?tag=stable-daily-20260422) |
-| `stable-daily-20260421` 🏷️ **stable-daily** | 2026-04-21 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/810732639?tag=stable-daily-20260421) |
-| `stable-daily-20260421` 🏷️ **stable-daily** | 2026-04-21 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/810732639?tag=stable-daily-20260421) |
+| `stable-daily-20260423` 🏷️ **stable-daily** | 2026-04-23 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/815694883?tag=stable-daily-20260423) |
+| `stable-daily-20260423` 🏷️ **stable-daily** | 2026-04-23 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/815694883?tag=stable-daily-20260423) |
+| `stable-daily-20260423` 🏷️ **stable-daily** | 2026-04-23 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/815694883?tag=stable-daily-20260423) |
+| `stable-daily-20260422` 🏷️ **stable-daily** | 2026-04-22 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/813323139?tag=stable-daily-20260422) |
+| `stable-daily-20260422` 🏷️ **stable-daily** | 2026-04-22 | [View Package](https://github.com/ublue-os/bluefin/pkgs/container/bluefin/813323139?tag=stable-daily-20260422) |
 <!-- STABLE_DAILY_IMAGES_END -->
 
 ### GTS Release
@@ -38,4 +38,4 @@ This page shows the latest published container images for Bluefin OS.
 
 <!-- LAST_UPDATE -->
 
-_This page is automatically updated via GitHub Actions. Last updated: 2026-04-22 06:34:09 UTC_
+_This page is automatically updated via GitHub Actions. Last updated: 2026-04-23 06:34:31 UTC_
