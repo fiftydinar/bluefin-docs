@@ -65,4 +65,4 @@ This page shows the latest published container images for Bluefin OS.
 
 <!-- LAST_UPDATE -->
 
-_This page is automatically updated via GitHub Actions. Last updated: 2026-09-06 09:54:46 UTC_
+_This page is automatically updated via GitHub Actions. Last updated: 2026-09-07 11:02:58 UTC_
